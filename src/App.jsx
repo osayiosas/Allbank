@@ -2,7 +2,7 @@ import React from "react";
 
 import style from "./style";
 
-import { Navbar } from "./components";
+import { Navbar} from "./components";
 
 import {
   Billing,
